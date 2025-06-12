@@ -1,4 +1,4 @@
-### Calculator
+## Calculator
 
 This simple calculator demonstrates testing in Java using TestNG with a `Calculator` class.
 
